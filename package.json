@@ -1,0 +1,15 @@
+{
+  "name": "photos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "livecam": "^0.2.0",
+    "node-webcam": "^0.4.6"
+  }
+}
